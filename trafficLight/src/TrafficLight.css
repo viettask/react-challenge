@@ -1,0 +1,22 @@
+.square {
+  width:  60px;
+  height: 190px;
+  background-color: rgb(0,0,0);
+  padding:2.5px;
+  border-radius: 5px;
+}
+
+.circle {
+  margin-left:5px;
+  margin-top:10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color:rgb(85,85,85);
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
